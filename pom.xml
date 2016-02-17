@@ -2,7 +2,7 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.pellcorp</groupId>
-	<artifactId>commons-io</artifactId>
+	<artifactId>pc-commons-io</artifactId>
 	<version>2.5</version>
 	
 	<properties>
